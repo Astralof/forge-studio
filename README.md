@@ -7,12 +7,12 @@ Du arbeitest in einem Chat, Forge verteilt die Arbeit an **Claude Code**, **Chat
 
 ## Download
 
-**Aktuelle Version: 0.8.1**
+**Aktuelle Version: 0.8.2**
 
 | System | Download |
 |---|---|
-| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.8.1-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.8.1/ForgeStudio-0.8.1-windows-x64-setup.exe) |
-| Windows – portabel, ohne Installation | [**ForgeStudio-0.8.1-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.8.1/ForgeStudio-0.8.1-windows-x64-portable.zip) |
+| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.8.2-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.8.2/ForgeStudio-0.8.2-windows-x64-setup.exe) |
+| Windows – portabel, ohne Installation | [**ForgeStudio-0.8.2-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.8.2/ForgeStudio-0.8.2-windows-x64-portable.zip) |
 
 Ältere Versionen und Prüfsummen: [alle Releases](https://github.com/Astralof/forge-studio/releases)
 
