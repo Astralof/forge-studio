@@ -7,12 +7,14 @@ Du arbeitest in einem Chat, Forge verteilt die Arbeit an **Claude Code**, **Chat
 
 ## Download
 
-**Aktuelle Version: 0.10.0**
+**Aktuelle Version: 0.11.0**
 
 | System | Download |
 |---|---|
-| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.10.0-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.10.0/ForgeStudio-0.10.0-windows-x64-setup.exe) |
-| Windows – portabel, ohne Installation | [**ForgeStudio-0.10.0-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.10.0/ForgeStudio-0.10.0-windows-x64-portable.zip) |
+| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.11.0-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/ForgeStudio-0.11.0-windows-x64-setup.exe) |
+| Windows – portabel, ohne Installation | [**ForgeStudio-0.11.0-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/ForgeStudio-0.11.0-windows-x64-portable.zip) |
+| Linux – AppImage | [**ForgeStudio-0.11.0-linux-x86_64.AppImage**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/ForgeStudio-0.11.0-linux-x86_64.AppImage) |
+| Ubuntu/Debian – Paket | [**forge-studio_0.11.0_amd64.deb**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/forge-studio_0.11.0_amd64.deb) |
 
 Ältere Versionen und Prüfsummen: [alle Releases](https://github.com/Astralof/forge-studio/releases)
 
@@ -23,6 +25,8 @@ Danach aktualisiert sich Forge selbst – du musst hier nicht wieder vorbeischau
 ## Was Forge kann
 
 - **Ein Chat für alles:** Forge entscheidet regelbasiert, wer eine Nachricht bearbeitet (Claude, ChatGPT oder die lokale KI), teilt gemischte Wünsche auf und zeigt an deiner Nachricht, ob sie wartet, läuft oder fertig ist. An jeder fertigen Antwort: **„✓ Übernehmen“** oder **„↩ Antworten / anpassen“**. Bilder fügst du mit Strg+V ein.
+- **Nebenfrage (/btw):** Beginnt eine Chat-Nachricht mit `/btw ` (oder Knopf **„❔ Nebenfrage“**), geht sie nicht in den laufenden Auftrag, sondern startet als eigener, **nur lesender** Auftrag parallel – ohne die laufende Claude-Sitzung fortzusetzen. Antwortet Claude (Abo); ist Claude im Abo-Limit, ChatGPT (Codex), sonst die lokale KI. Die Antwort steht als „❔ Nebenfrage“ markiert im Chat; Forge pflegt danach weder Roadmap noch Doku, startet keine Codex-Gegenprüfung und keine Übergaben.
+- **Suche überall (Strg+K):** Strg+K (Mac: Cmd+K) öffnet von jeder Seite aus die Suche über alle Projekte, Aufträge, Chat-Nachrichten, Freigaben und die Seiten der App. Ab 2 Zeichen, alle Wörter müssen vorkommen, max. 50 Treffer gruppiert mit Projekt, Datum und Ausschnitt. ↑/↓ wählen, Enter springt hin (Projekt wird aktiv, Auftrag im Chat, Freigabe-Karte), Esc schließt. Strg+F sucht weiterhin nur im offenen Chat.
 - **Forge schläft nie (außer du pausierst):** Ist Claude im Abo-Limit, bleibt nichts liegen – Aufträge warten und laufen nach dem Reset automatisch weiter, oder (Einstellung) ChatGPT übernimmt sofort. **„⏹ Alles stoppen“** gibt den PC mit einem Klick frei, „▶ Weiter“ setzt fort.
 - **Freigaben & Entscheidungen:** Rückfragen der Agenten werden zu Entscheidungskarten (auch „Nicht jetzt entscheiden“); Assets, Sounds und Änderungen gibst du je Datei frei oder lehnst sie ab.
 - **Sicher arbeiten lassen:** Schreib-Aufträge laufen in einer Arbeitskopie mit Änderungsprüfung, jede Datei wird vor einer Änderung gesichert, Löschen/Umbenennen braucht ein eigenes Recht, und nach jeder Änderung laufen automatisch die betroffenen Tests (ohne Token-Kosten).
