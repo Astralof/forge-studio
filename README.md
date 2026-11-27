@@ -7,14 +7,14 @@ Du arbeitest in einem Chat, Forge verteilt die Arbeit an **Claude Code**, **Chat
 
 ## Download
 
-**Aktuelle Version: 0.12.0**
+**Aktuelle Version: 0.13.0**
 
 | System | Download |
 |---|---|
-| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.12.0-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/ForgeStudio-0.12.0-windows-x64-setup.exe) |
-| Windows – portabel, ohne Installation | [**ForgeStudio-0.12.0-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/ForgeStudio-0.12.0-windows-x64-portable.zip) |
-| Linux – AppImage | [**ForgeStudio-0.12.0-linux-x86_64.AppImage**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/ForgeStudio-0.12.0-linux-x86_64.AppImage) |
-| Ubuntu/Debian – Paket | [**forge-studio_0.12.0_amd64.deb**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/forge-studio_0.12.0_amd64.deb) |
+| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.13.0-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.13.0/ForgeStudio-0.13.0-windows-x64-setup.exe) |
+| Windows – portabel, ohne Installation | [**ForgeStudio-0.13.0-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.13.0/ForgeStudio-0.13.0-windows-x64-portable.zip) |
+| Linux – AppImage | [**ForgeStudio-0.13.0-linux-x86_64.AppImage**](https://github.com/Astralof/forge-studio/releases/download/v0.13.0/ForgeStudio-0.13.0-linux-x86_64.AppImage) |
+| Ubuntu/Debian – Paket | [**forge-studio_0.13.0_amd64.deb**](https://github.com/Astralof/forge-studio/releases/download/v0.13.0/forge-studio_0.13.0_amd64.deb) |
 
 Ältere Versionen und Prüfsummen: [alle Releases](https://github.com/Astralof/forge-studio/releases)
 
@@ -31,6 +31,7 @@ Danach aktualisiert sich Forge selbst – du musst hier nicht wieder vorbeischau
 - **Freigaben & Entscheidungen:** Rückfragen der Agenten werden zu Entscheidungskarten (auch „Nicht jetzt entscheiden“); Assets, Sounds und Änderungen gibst du je Datei frei oder lehnst sie ab.
 - **Sicher arbeiten lassen:** Schreib-Aufträge laufen in einer Arbeitskopie mit Änderungsprüfung, jede Datei wird vor einer Änderung gesichert, Löschen/Umbenennen braucht ein eigenes Recht, und nach jeder Änderung laufen automatisch die betroffenen Tests (ohne Token-Kosten).
 - **Godot:** Spiel starten, Tests, KI-Demo mit Aufnahme und Prüfung, Installer per Knopf. Optional verbindet Forge Claude mit dem **laufenden Godot-Editor** (MCP), damit Szenen über den Editor statt als Text geändert werden.
+- **KI-Blindtest:** Eine KI spielt dein Spiel wie ein neuer Spieler – nur Bildschirmfotos, Maus und Tastatur, keine Anleitung – und protokolliert, was sie versteht und wo sie hängen bleibt, mit Bewertung 0–10 je Bereich. Spieler: ChatGPT (Codex), Claude oder eine lokale KI mit Bildverständnis. Das Spiel braucht dafür eine kleine Schnittstelle (docs/FORGE_BLINDTEST.md).
 - **Bilder lokal erzeugen (ComfyUI):** Z-Image Turbo und FLUX.2 klein – nur Modelle, die für ein verkauftes Spiel lizenziert sind; Ergebnisse kommen als Freigabe-Karte.
 - **KI-Herkunft & Steam:** Forge liest aus KI-Bildern Modell, Prompt und Lizenz, prüft sie für den Verkauf und erzeugt den Text für Steams Angabe zu KI-Inhalten.
 - **Projekt-Überblick:** Roadmap und Meilensteine, Konzept, Graph, Verlauf, Code & Git, Medien-Browser mit Vorschau (Bilder, 3D, Ton, Video).
