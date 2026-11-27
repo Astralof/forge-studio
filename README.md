@@ -7,14 +7,14 @@ Du arbeitest in einem Chat, Forge verteilt die Arbeit an **Claude Code**, **Chat
 
 ## Download
 
-**Aktuelle Version: 0.11.0**
+**Aktuelle Version: 0.12.0**
 
 | System | Download |
 |---|---|
-| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.11.0-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/ForgeStudio-0.11.0-windows-x64-setup.exe) |
-| Windows – portabel, ohne Installation | [**ForgeStudio-0.11.0-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/ForgeStudio-0.11.0-windows-x64-portable.zip) |
-| Linux – AppImage | [**ForgeStudio-0.11.0-linux-x86_64.AppImage**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/ForgeStudio-0.11.0-linux-x86_64.AppImage) |
-| Ubuntu/Debian – Paket | [**forge-studio_0.11.0_amd64.deb**](https://github.com/Astralof/forge-studio/releases/download/v0.11.0/forge-studio_0.11.0_amd64.deb) |
+| Windows 10/11 – Installer (empfohlen) | [**ForgeStudio-0.12.0-windows-x64-setup.exe**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/ForgeStudio-0.12.0-windows-x64-setup.exe) |
+| Windows – portabel, ohne Installation | [**ForgeStudio-0.12.0-windows-x64-portable.zip**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/ForgeStudio-0.12.0-windows-x64-portable.zip) |
+| Linux – AppImage | [**ForgeStudio-0.12.0-linux-x86_64.AppImage**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/ForgeStudio-0.12.0-linux-x86_64.AppImage) |
+| Ubuntu/Debian – Paket | [**forge-studio_0.12.0_amd64.deb**](https://github.com/Astralof/forge-studio/releases/download/v0.12.0/forge-studio_0.12.0_amd64.deb) |
 
 Ältere Versionen und Prüfsummen: [alle Releases](https://github.com/Astralof/forge-studio/releases)
 
